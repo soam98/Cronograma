@@ -1,0 +1,18 @@
+.table {border:1px solid; background-color: gray;}
+
+.month {background-color:yellow; border:1px solid #000000;}
+.u604 {background-color: blue; border:1px solid; color:white;}
+.u598 {background-color: lightpink; border:1px solid; color:#000000;}
+.u597 {background-color: #BB4772; border:1px solid; color:#000000;}
+.u611 {background-color: green; border:1px solid; color:#000000;}
+.u606 {background-color: orange; border:1px solid; color:#000000;}
+.u599 {background-color: #B30095; border:1px solid; color:white;}
+.u603 {background-color: yellow; border: 1px solid; color:black;}
+.u601 {background-color: #33FF99; border: 1px solid; color:#000000;}
+.u614 {background-color: #EEFF99; border: 1px solid; color:black;}
+.u605 {background-color: blue; border:1px solid; color:white;}
+.dia_semana {background-color: #FFAE78; border:1px solid; color:#000000;}
+.dia_fim_semana {background-color: gray; color: black; border:1px solid;}
+.sem_aulas {background-color: white; border:1px solid;}
+.hora {background-color: white; color:#000000;}
+.dia {background-color: yellow; color:#000000; border:1px solid;}
